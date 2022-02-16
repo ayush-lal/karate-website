@@ -1,4 +1,4 @@
-# Karate-Website-Template
+# Karate Website
 
 A Karate theme website built for a client to promote an upcoming Tournament.
 
